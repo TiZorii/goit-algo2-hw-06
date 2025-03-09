@@ -26,6 +26,10 @@ Write a Python script that downloads text from a given URL, analyzes word freque
 
 4. In the main code block, retrieve the text from the URL, apply MapReduce, and visualize the results.
 
+Example
+
+![Results](./screenshot/img_1.png)
+
 ### Acceptance Criteria
 
 📌 The acceptance criteria for this homework are mandatory for mentor review. If any of the criteria are not met, the mentor will return the homework for revision without grading. If you "just need clarification" 😉 or get "stuck" on any step, feel free to ask your mentor on Slack.
